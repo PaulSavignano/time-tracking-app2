@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import client from './client';
 import helpers from './helpers';
 import EditableTimerList from './EditableTimerList';
 import ToggleableTimerForm from './ToggleableTimerForm';
